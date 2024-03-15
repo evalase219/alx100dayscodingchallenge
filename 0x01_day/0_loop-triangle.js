@@ -9,3 +9,4 @@ function loopRightTriangle(n) {
   }
   console.log(result);
 }
+console.log(loopRightTriangle(7))
